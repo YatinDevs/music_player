@@ -71,3 +71,5 @@ Hosting Repository on Vercel :
     Add new Project - (Vercel)
     Add github Account - (Vercel)
     Giving music_player Repository access - (github)
+    Import Repository music_player - (Vercel)
+    Deploy Repo music_player - (Vercel)
