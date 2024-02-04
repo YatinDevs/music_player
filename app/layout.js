@@ -9,9 +9,11 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  // In React we used Outlet instead of Children
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
-    </html>
+    <>
+      <div id="header">Logo</div>
+      {children}
+    </>
   );
 }

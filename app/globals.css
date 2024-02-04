@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+#header {
+  height: 64px;
+  background-color: red;
+}
